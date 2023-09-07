@@ -5,6 +5,8 @@ This repository contains an analysis of Airbnb data for listings in Sydney, Aust
 
 ## Data
 
+Source: https://uplimit.com/course/sql-crash-course/v2/dashboard
+
 The analysis uses data from the following tables:
 
 - `listings`: Contains information on each listing such as id, host, room type, price, etc.
@@ -40,4 +42,3 @@ The bonus section includes some suggested extensions for further analysis:
 - Finding potential price gouging in the calendar
 - Coming up with additional queries and analyses on the data
 
-Feel free to add more queries and use this as a sandbox for practicing SQL analysis!
